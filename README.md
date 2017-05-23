@@ -1,1 +1,2 @@
-# PracticalTest02
+# Necula Darius
+# 343C2
